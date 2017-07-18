@@ -1,4 +1,8 @@
-# SPA
+# Comic App SPA
+
+A simple Angular 2 application with a few components and a search functionality
+
+![](http://i.imgur.com/IVu6iJx.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
